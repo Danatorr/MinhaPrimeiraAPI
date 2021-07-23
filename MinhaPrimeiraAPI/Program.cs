@@ -11,6 +11,7 @@ namespace MinhaPrimeiraAPI
 {
     public class Program
     {
+        //Criando um servidor web e executando
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
